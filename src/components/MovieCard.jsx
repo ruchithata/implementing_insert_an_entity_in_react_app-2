@@ -17,6 +17,7 @@ const MovieCard = ({ movie }) => {
         <p className="movie-synopsis">{synopsis}</p>
       </div>
     </div>
+    
   );
 };
 
